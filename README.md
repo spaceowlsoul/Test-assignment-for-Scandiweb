@@ -1,4 +1,4 @@
-# Test-assignment-for-Scandiweb
+# :pencil: Test-assignment-for-Scandiweb
 The task:
 1) find 10 functional bugs and 2 bugs from each of the following bug types - content, visual, performance, cross-browser and cross-device on the given site;
 2) register them in the sheet following given example;
