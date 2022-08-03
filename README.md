@@ -1,2 +1,2 @@
 # Test-assignment-for-Scandiweb
-Bug report of the given site.
+Bug report for the given site.
